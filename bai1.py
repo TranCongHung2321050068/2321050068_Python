@@ -1,0 +1,1 @@
+print("Xin chào, tôi là Trần Công Hùng, msv: 2321050068, lớp: DCCTCT68B")
